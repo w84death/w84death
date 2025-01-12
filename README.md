@@ -1,7 +1,8 @@
 ## Krzysztof Krystian Jankowski
 
-> Known as w84death
-Cyfrowy Nomada and P1X Founder. Producer at beffio.
+Known as **w84death**. 
+
+**Cyfrowy Nomada** and **P1X** founder. Producer at **beffio**.
 
 ```
       _________________      Tanks of Freedom, FLOPPINUX, smolOS, and more...
